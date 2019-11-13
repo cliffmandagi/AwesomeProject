@@ -14,7 +14,7 @@ const navigator = createStackNavigator({
     Friend: FriendScreen,
     Home: HomeScreen,
     Image: ImageScreen,
-    Counter: CounterScreen
+    Counter: CounterScreen,
 },{
     initialRouteName: 'Home',
     defaultNavigationOptions: {
@@ -38,3 +38,5 @@ const styles = StyleSheet.create({
 
 // Navigasi, Button, Flatlist
 // git clone https://github.com/stenlyadam/mobile-programming.git
+// expo build:android
+// React Native Elements

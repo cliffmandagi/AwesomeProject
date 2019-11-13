@@ -28,4 +28,4 @@ class CounterScreen extends Component{
 
 const styles = StyleSheet.create({});
 
-export default CounterScreen();
+export default CounterScreen;
